@@ -6,19 +6,19 @@ Hilda Token (HILDA) is an ERC-20 compatible token deployed on the Ethereum block
 
 ## Contract Information
 
-- **Contract Address:** [Your Contract Address on Etherscan]
-- **Network:** Ethereum Mainnet (or specify the testnet if deployed there)
+- **Contract Address:** [0x6448bC8c597F10D86B9CE6D9B8d4B60c8137d0a6]
+- **Network:** Ethereum Sepolia 
 
 ## Token Details
 
 - **Name:** Hilda Token
-- **Symbol:** HILDA
-- **Decimals:** [Specify the number of decimals your token uses]
+- **Symbol:** HIL
+- **Decimals:** [18 decimals]
 
 ## Features
 
 - **Standard:** ERC-20
-- **Total Supply:** [Specify the total supply of Hilda Tokens]
+- **Total Supply:** [ 1000000000000000000000000000]
 - **Mintable:** [Specify if the token is mintable]
 - **Burnable:** [Specify if the token is burnable]
 
